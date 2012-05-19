@@ -3,13 +3,14 @@ Codeigniter Stored Procedure helper
 Description
 -----------
 
-<!-- under construction -->
+mySQL stored procedure generator for Codeigniter helper
 
 
-Features
+Syntax
 --------
 
-<!-- under construction -->
+call($procedure_name , $array_of_data[]);
+// return call procedure_name('$array_of_data[0]','$array_of_data[1]','$array_of_data[2');
 
 
 Copyright
