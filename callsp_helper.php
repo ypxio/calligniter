@@ -7,9 +7,9 @@
  *
  * @package		CodeIgniter
  * @author		ExpressionEngine Dev Team
- * @copyright	Copyright (c) 2008 - 2011, EllisLab, Inc.
+ * @copyright		Copyright (c) 2008 - 2011, EllisLab, Inc.
  * @license		http://codeigniter.com/user_guide/license.html
- * @link			http://codeigniter.com
+ * @link		http://codeigniter.com
  * @since		Version 1.0
  * @filesource
  */
@@ -20,10 +20,10 @@
  * Calligniter - a Codeigniter Helper to help generate mySQL stored procedure's queries 
  *
  * @package		CodeIgniter
- * @subpackage	Helpers
- * @category	Helpers
+ * @subpackage		Helpers
+ * @category		Helpers
  * @author		Yuri Pertamax - yuripertamax@gmail.com
- * @link			./your/application/helper/folder/path/
+ * @link		./your/application/helper/folder/path/
  */
 
 // ------------------------------------------------------------------------
